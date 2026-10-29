@@ -5,8 +5,8 @@ class Crystal < Formula
   compatibility_version 2
 
   stable do
-    url "https://github.com/crystal-lang/crystal/archive/refs/tags/1.22.1.tar.gz"
-    sha256 "134da23412c2493ec34ae2dda2d5dc10310d8e0c83ba7463bdc4a4269b392002"
+    url "https://github.com/crystal-lang/crystal/archive/refs/tags/1.22.2.tar.gz"
+    sha256 "fd07dfa5e798b43cdf351494365e039c07fee15326d175c10490ae12e5f69edc"
 
     resource "shards" do
       url "https://github.com/crystal-lang/shards/archive/refs/tags/v0.20.0.tar.gz"
