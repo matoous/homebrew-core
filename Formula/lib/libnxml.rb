@@ -1,8 +1,8 @@
 class Libnxml < Formula
   desc "C library for parsing, writing, and creating XML files"
   homepage "https://github.com/bakulf/libnxml"
-  url "https://github.com/bakulf/libnxml/archive/refs/tags/0.18.5.tar.gz"
-  sha256 "263d6424db3cd5f17a9f6300594548e82449ed22af59e9e5534646fa0dabd6a7"
+  url "https://github.com/bakulf/libnxml/archive/refs/tags/0.18.6.tar.gz"
+  sha256 "c6de3c486f37c064eeae7d94e74f8dd25328e23effd8409a26a1170c19203ab4"
   license "LGPL-2.1-or-later"
   head "https://github.com/bakulf/libnxml.git", branch: "master"
 
