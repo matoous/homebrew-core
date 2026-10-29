@@ -1,8 +1,8 @@
 class Mosdepth < Formula
   desc "Fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing"
   homepage "https://github.com/brentp/mosdepth"
-  url "https://github.com/brentp/mosdepth/archive/refs/tags/v0.3.14.tar.gz"
-  sha256 "abac67de4547dc5642efd46846044d6b3536d2ca3443b4ca172446edf82eeb42"
+  url "https://github.com/brentp/mosdepth/archive/refs/tags/v0.3.15.tar.gz"
+  sha256 "7fc4bacd5cd1fecad76c93f08921e32efaad2ebabccd7a65e6f4fdf9095ea08e"
   license "MIT"
   head "https://github.com/brentp/mosdepth.git", branch: "master"
 
